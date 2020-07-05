@@ -1,0 +1,20 @@
+{
+  "name": "fn-str",
+  "version": "0.0.4",
+  "description": "custom string functions collection",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ketan",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "string",
+    "capitalize",
+    "function"
+  ],
+  "license": "ISC"
+}
